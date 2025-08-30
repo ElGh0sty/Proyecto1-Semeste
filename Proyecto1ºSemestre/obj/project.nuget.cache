@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2HSD+aTFjOw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\11yer\\source\\repos\\Proyecto1ºSemestre\\Proyecto1ºSemestre.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11yer\\.nuget\\packages\\dockpanelsuite\\3.1.1\\dockpanelsuite.3.1.1.nupkg.sha512",
+    "C:\\Users\\11yer\\.nuget\\packages\\realtaiizor\\3.8.1.3\\realtaiizor.3.8.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
